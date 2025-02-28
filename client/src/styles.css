@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: white;
+  color: black;
+}
+
+h1 {
+  color: #f0ad4e; /* Yellow */
+}
+
+.registration, .dashboard, .tracking, .admin-login {
+  background-color: #87ceeb; /* Sky blue */
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+input {
+  display: block;
+  margin: 10px auto;
+  padding: 10px;
+  width: 80%;
+}
+
+button {
+  background-color: #f0ad4e; /* Yellow */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
